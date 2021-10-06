@@ -29,7 +29,7 @@ Para manter a estrutura desse repositório atualizado com as definições regula
 - Dicionários de Dados em formato [CSV;](https://tools.ietf.org/html/rfc4180)
 - Ambiente navegável de documentação em formato [Markdown](https://www.markdownguide.org/) para exibição da documentação em páginas HTML utilizando o [Slate;](https://github.com/slatedocs/slate)
 - Ambiente de integração contínua (CI/CD) utilizando [Githubs Actions](https://github.com/features/actions);
-- Ambiente automatizado e integrado ao CI/CD para validação de especificação Opem API utilizando o [Stoplight spectral](https://github.com/stoplightio/spectral);
+- Ambiente automatizado e integrado ao CI/CD para validação de especificação Open API utilizando o [Stoplight spectral](https://github.com/stoplightio/spectral);
 - Ambiente automatizado e integrado ao CI/CD para transformação dinâmica das especificações Open API em formato [Markdown](https://www.markdownguide.org/) utilizando o [Widdershins](https://github.com/Mermade/widdershins);
 
 ## Como contribuir?
